@@ -1,3 +1,4 @@
+dockeredmundsiommonn/resumejianli:v1
 nginx:stable-alpine3.20-perl
 nginx
 #支持私库
