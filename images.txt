@@ -1,3 +1,4 @@
+ubuntu/prometheus
 bitnami/postgresql
 mysql
 dockeredmundsiommonn/resumejianli:v1
