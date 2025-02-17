@@ -1,4 +1,4 @@
-kube-webhook-certgen:v1.5.1
+kube-webhook-certgen:v1.5.1-1-g18cfc89
 bitnami/kube-state-metrics:2.2.4
 kube-state-metrics:v2.2.4
 ubuntu/prometheus
