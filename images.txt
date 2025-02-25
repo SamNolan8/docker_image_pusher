@@ -1,3 +1,4 @@
+bitnami/mysqld-exporter:latest
 bitnami/alertmanager:latest
 bitnami/prometheus:2.55.1
 bitnami/node-exporter:latest
