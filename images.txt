@@ -1,3 +1,4 @@
+labring/kube-prometheus-stack:v0.71.0
 bitnami/mysqld-exporter:latest
 bitnami/alertmanager:latest
 bitnami/prometheus:2.55.1
