@@ -1,7 +1,9 @@
+bitnami/alertmanager:latest
+bitnami/prometheus:2.55.1
+bitnami/node-exporter:latest
+bitnami/kube-state-metrics:latest
+bitnami/pushgateway:latest
 kube-webhook-certgen:v1.5.1-1-g18cfc89
-bitnami/kube-state-metrics:2.2.4
-kube-state-metrics:v2.2.4
-ubuntu/prometheus
 bitnami/postgresql
 mysql
 dockeredmundsiommonn/resumejianli:v1
