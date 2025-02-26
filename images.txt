@@ -1,3 +1,4 @@
+rancher/mirrored-ingress-nginx-kube-webhook-certgen:v1.5.0
 jettech/kube-webhook-certgen:v1.5.1
 labring/kube-prometheus-stack:v0.71.0
 bitnami/mysqld-exporter:latest
